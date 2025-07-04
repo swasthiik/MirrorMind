@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 MirrorMind – Real-Time Loop Detection Using Gaze & Expression
 
 MirrorMind is a real-time behavior analysis system that tracks human facial expressions and gaze patterns to detect loop behaviors — such as zoning out, escaping reality, smiling, or freezing — while sitting in front of a screen. It leverages computer vision, face detection, and custom logic to classify these behaviors live.
@@ -90,3 +91,7 @@ Hi, I’m Swasthik – a passionate Machine Learning and Computer Vision enthusi
 💻 GitHub: https://github.com/swasthiik/swasthiik
 
 📊 Kaggle: https://www.kaggle.com/swasthiik
+=======
+# MirrorMind
+Real-Time Loop Behavior Detection using Gaze &amp; Facial Expression
+>>>>>>> 17bdba9e1203bb85f33b92eec4d7dac47ed6551a
